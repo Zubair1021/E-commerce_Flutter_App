@@ -42,7 +42,7 @@ While the app covers the essential features of an e-commerce platform, there are
 ![image](https://github.com/user-attachments/assets/5d756780-c133-4ab0-9c7a-55523e0612ec)
 
 ## 🌐 Project Complete Demo Video
- ![link](https://drive.google.com/file/d/12jBBBM5Y1LWQxGrbD4kx1DQUZEy-VR6p/view?usp=sharing)
+You can see the project working by clicking [here](https://drive.google.com/file/d/12jBBBM5Y1LWQxGrbD4kx1DQUZEy-VR6p/view?usp=sharing).
 
 
 
